@@ -124,3 +124,7 @@ footer {
       font-size: x-large;
       font-style: bolder;
   }
+
+  .button {
+      margin: 8px;
+  }
